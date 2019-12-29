@@ -14,4 +14,9 @@ Step4：最后写Abstract
 
 记得一定要用IEEE会议或者期刊的模板，论文中文字的大小和行间距一定要相符  
 
-如果可以的话，以后直接用英文写论文，不要从中文翻译到英文(想写啥，直接翻译)
+如果可以的话，以后直接用英文写论文，不要从中文翻译到英文(想写啥，直接翻译)  
+读论文技巧：https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf  
+来源：https://mp.weixin.qq.com/s/5oiHcsgNPYND9TF8oVcKBQ?client=tim&ADUIN=727850024&ADSESSION=1577593670&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882
+
+写论文技巧：https://mp.weixin.qq.com/s/gAsaa7fAraE5B-vm_izFTg?client=tim&ADUIN=727850024&ADSESSION=1570493231&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882&client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882  
+https://mp.weixin.qq.com/s/EvlmChTzd9Od_g-UHeN4Vg?client=tim&ADUIN=727850024&ADSESSION=1577595981&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882
