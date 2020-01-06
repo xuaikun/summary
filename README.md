@@ -23,7 +23,7 @@ https://mp.weixin.qq.com/s/EvlmChTzd9Od_g-UHeN4Vg?client=tim&ADUIN=727850024&ADS
 
 写完论文要检查有没有中文的标点符号，如"句号。"和"逗号，"
 
-clone部分GitHub中的目录： https://zhuanlan.zhihu.com/p/54581830  
+clone部分GitHub中的目录： https://zhuanlan.zhihu.com/p/54581830   //首先会遍历所有的目录，所以开始时会有点慢，保持网络通畅
 $ mkdir models # 创建一个与要clone的仓库同名或不同命的目录  
 $ cd models  
 $ git init #初始化  
@@ -31,3 +31,5 @@ $ git remote add origin  https://github.com/tensorflow/models.git # 增加远端
 $ git config core.sparsecheckout true # 设置Sparse Checkout 为true   
 $ echo "research/deeplab" >> .git/info/sparse-checkout # 将要部分clone的目录相对根目录的路径写入配置文件  
 $ git pull origin master #pull下来代码  “确定是不是-‘master’”
+
+
