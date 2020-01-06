@@ -35,3 +35,14 @@ $ git pull origin master #pull下来代码  “确定是不是-‘master’”
 ### 百度 AI Studio的使用
 https://aistudio.baidu.com/aistudio/index
 项目->创建项目->默认设置->上传代码->在终端运行->爽歪歪(GPU算力，真香)
+
+### Q10. 我在AI Studio Notebook项目中pip install的Python package在下次运行时为什么不见了?  
+如果需要进行持久化安装, 需要使用持久化路径, 如下方代码示例:  
+
+!mkdir /home/aistudio/external-libraries  
+!pip install beautifulsoup4 -t /home/aistudio/external-libraries  
+同时添加如下代码, 这样每次环境(kernel)启动的时候只要运行下方代码即可:  
+
+import sys  
+sys.path.append('/home/aistudio/external-libraries')  
+
