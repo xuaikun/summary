@@ -32,4 +32,6 @@ $ git config core.sparsecheckout true # 设置Sparse Checkout 为true
 $ echo "research/deeplab" >> .git/info/sparse-checkout # 将要部分clone的目录相对根目录的路径写入配置文件  
 $ git pull origin master #pull下来代码  “确定是不是-‘master’”
 
-
+### 百度 AI Studio的使用
+https://aistudio.baidu.com/aistudio/index
+项目->创建项目->默认设置->上传代码->在终端运行->爽歪歪(GPU算力，真香)
