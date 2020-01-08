@@ -41,11 +41,10 @@ https://aistudio.baidu.com/aistudio/index
 
 !mkdir /home/aistudio/external-libraries  
 !pip install beautifulsoup4 -t /home/aistudio/external-libraries  
-同时添加如下代码, 这样每次环境(kernel)启动的时候只要运行下方代码即可:(一定要添加，不容会出问题)  
-
+### 同时添加如下代码, 这样每次环境(kernel)启动的时候只要运行下方代码即可:(一定要添加，不容会出问题)  
 import sys  
-sys.path.append('/home/aistudio/external-libraries')  
-
+sys.path.append('/home/aistudio/external-libraries')   
+其中的路径不用"../"而是用'./'
 ### pip3 安装和更新的语句：（重要）  
 python3 -m pip install --upgrade pip
 
