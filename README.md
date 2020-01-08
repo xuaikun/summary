@@ -46,3 +46,6 @@ https://aistudio.baidu.com/aistudio/index
 import sys  
 sys.path.append('/home/aistudio/external-libraries')  
 
+### pip3 更新的语句：（重要）  
+python3 -m pip install --upgrade pip
+
