@@ -48,3 +48,5 @@ sys.path.append('/home/aistudio/external-libraries')
 ### pip3 安装和更新的语句：（重要）  
 python3 -m pip install --upgrade pip
 
+### centos中安装Numpy
+https://blog.csdn.net/genghaihua/article/details/44305949
