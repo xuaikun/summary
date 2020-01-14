@@ -50,3 +50,6 @@ python3 -m pip install --upgrade pip
 
 ### centos中安装Numpy
 https://blog.csdn.net/genghaihua/article/details/44305949
+
+### Endnote 激活码
+https://www.newasp.net/soft/385188.html
