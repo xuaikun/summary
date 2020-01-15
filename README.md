@@ -53,3 +53,4 @@ https://blog.csdn.net/genghaihua/article/details/44305949
 
 ### Endnote 激活码
 https://www.newasp.net/soft/385188.html
+https://cnzhx.net/blog/endnote-output-style-cnzhx/  endnote的中文标准解决方法，不能用时，用endnote打开，另存为即可
