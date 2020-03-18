@@ -30,6 +30,8 @@ $ git init #初始化
 $ git remote add origin  https://github.com/tensorflow/models.git # 增加远端的仓库地址  
 $ git config core.sparsecheckout true # 设置Sparse Checkout 为true   
 $ echo "research/deeplab" >> .git/info/sparse-checkout # 将要部分clone的目录相对根目录的路径写入配置文件  
+
+GPU选择建议：https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882
 $ git pull origin master #pull下来代码  “确定是不是-‘master’”
 
 ### 百度 AI Studio的使用
@@ -54,4 +56,5 @@ https://blog.csdn.net/genghaihua/article/details/44305949
 ### Endnote 激活码
 https://www.newasp.net/soft/385188.html
 https://cnzhx.net/blog/endnote-output-style-cnzhx/  endnote的中文标准解决方法，不能用时，用endnote打开，另存为即可   
-https://danny.li/notes/endnote-style-file-for-ieee-transaction/  IEEE Trans的模板
+https://danny.li/notes/endnote-style-file-for-ieee-transaction/  IEEE Trans的模板  
+GPU选择建议：https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882
