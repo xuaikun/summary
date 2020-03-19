@@ -57,4 +57,7 @@ https://blog.csdn.net/genghaihua/article/details/44305949
 https://www.newasp.net/soft/385188.html
 https://cnzhx.net/blog/endnote-output-style-cnzhx/  endnote的中文标准解决方法，不能用时，用endnote打开，另存为即可   
 https://danny.li/notes/endnote-style-file-for-ieee-transaction/  IEEE Trans的模板  
-GPU选择建议：https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882
+GPU选择建议：https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882  
+
+清华大学刘洋老师谈论文写作
+https://mp.weixin.qq.com/s?__biz=MzI2NjA3MzM5MA==&mid=2649955575&idx=1&sn=b0cba28d16eb2af6672862064dca2ac8&chksm=f29418b6c5e391a0af6810385fdc25c36fade0562348469a5b28195b9c46309ee1c7b873c280&mpshare=1&scene=1&srcid=&sharer_sharetime=1584592533008&sharer_shareid=8e04d2500bb4393b31c11bcc3e1beef5&exportkey=A2K5MGk3SpLm8Hv8%2FJFLnUk%3D&pass_ticket=Y7xylP2Ewxo8OKeJS9UOOmowGAq35rZ%2BKZ%2BoPmf11MxPFc971x1AtFGMM0OOAlvI#rd
