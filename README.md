@@ -57,6 +57,18 @@ https://blog.csdn.net/genghaihua/article/details/44305949
 https://www.newasp.net/soft/385188.html
 https://cnzhx.net/blog/endnote-output-style-cnzhx/  endnote的中文标准解决方法，不能用时，用endnote打开，另存为即可   
 https://danny.li/notes/endnote-style-file-for-ieee-transaction/  IEEE Trans的模板  
+
+### Endnote 生成参考文献方法  
+1、 利用Google scholars搜索按钮搜索想要添加的文章  
+2、点击文献右上角双引号  
+3、点击底下的"EndNote"，即可下载当前文献EndNotes的参考文献格式  
+4、点击所下载的的Endnotes文件，即可将所下载文件的参考文件形式导入到Endnotes的库中(已存在Endnotes库中)  
+5、打开Word文档，点击EndNote按钮，进入EndNotes模式  
+6、点击左上角"Insert Citation"即可选择导入你想要的文献  
+7、修改Style，可以修改导入参考文献的格式  
+
+
+
 GPU选择建议：https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&ADUIN=727850024&ADSESSION=1584534264&ADTAG=CLIENT.QQ.5603_.0&ADPUBNO=26882  
 
 清华大学刘洋老师谈论文写作
