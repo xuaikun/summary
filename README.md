@@ -73,3 +73,9 @@ GPU选择建议：https://mp.weixin.qq.com/s/a-b4q3_o19KGXF125qBa_A?client=tim&A
 
 清华大学刘洋老师谈论文写作
 https://mp.weixin.qq.com/s?__biz=MzI2NjA3MzM5MA==&mid=2649955575&idx=1&sn=b0cba28d16eb2af6672862064dca2ac8&chksm=f29418b6c5e391a0af6810385fdc25c36fade0562348469a5b28195b9c46309ee1c7b873c280&mpshare=1&scene=1&srcid=&sharer_sharetime=1584592533008&sharer_shareid=8e04d2500bb4393b31c11bcc3e1beef5&exportkey=A2K5MGk3SpLm8Hv8%2FJFLnUk%3D&pass_ticket=Y7xylP2Ewxo8OKeJS9UOOmowGAq35rZ%2BKZ%2BoPmf11MxPFc971x1AtFGMM0OOAlvI#rd
+
+
+# Latex避坑： 
+1、记得安装最新版(旧版很多东西没有，很多坑)，最完整版(建议稳定版、高校开源镜像)：资源：http://www.ctex.org/CTeXDownload  
+2、找不到的包，从该资源中找：https://ctan.org/pkg  
+备注大佬介绍可以多看：https://blog.csdn.net/Jiajikang_jjk/article/details/80243788?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159678024819726869031671%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=159678024819726869031671&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-3-80243788.first_rank_ecpm_v3_pc_rank_v2&utm_term=CTex&spm=1018.2118.3001.4187
