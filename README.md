@@ -84,3 +84,6 @@ https://mp.weixin.qq.com/s?__biz=MzI2NjA3MzM5MA==&mid=2649955575&idx=1&sn=b0cba2
 # Illustrator 虚线的设置
 窗口-->描边-->虚线，虚线 5pt，间隙 5pt
 https://helpx.adobe.com/cn/illustrator/using/stroke-object.html
+
+# 网络问题：能登陆微信，但是不能访问浏览器
+改DNS，114，114，114，114；114，114，114，115；
