@@ -80,6 +80,7 @@ https://mp.weixin.qq.com/s?__biz=MzI2NjA3MzM5MA==&mid=2649955575&idx=1&sn=b0cba2
 2. 找不到的包，从该资源中找：https://ctan.org/pkg  
 备注大佬介绍可以多看：https://blog.csdn.net/Jiajikang_jjk/article/details/80243788?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159678024819726869031671%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=159678024819726869031671&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-3-80243788.first_rank_ecpm_v3_pc_rank_v2&utm_term=CTex&spm=1018.2118.3001.4187
 3. [.eps如何放到latex中使用，直接在代码最前面加：\usepackage{epstopdf}紧跟着加\usepackage{graphicx}](https://tex.stackexchange.com/questions/29664/latex-error-unknown-graphics-extension-eps)
+4. texstudio似乎不能处理.eps文件，针对matlab生成的.eps数据文件，我的处理方法：用Adobe Acrobat Pro DC打开.eps文件，即可自动转化为.pdf文档，另存文档为.pdf，即可用latex进行导入。
 
 
 # Illustrator 虚线的设置
