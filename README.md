@@ -92,3 +92,10 @@ https://helpx.adobe.com/cn/illustrator/using/stroke-object.html
 
 # Origin问题
 1、当前界面嵌入到大窗口中了，如何解决？答：点击【Duplicate】按钮即可
+
+
+# 如何通过visio生成.eps或pdf?
+1. 用visio画好图，打印当前页为pdf文档；
+2. 用Adobe Acrobat Pro打开pdf文档；
+3. 点击编辑选项-->裁剪页面-->双击后确定；
+4. 点击文件-->导出到-->内嵌式(即：.eps文件)；
