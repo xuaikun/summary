@@ -91,7 +91,8 @@ https://helpx.adobe.com/cn/illustrator/using/stroke-object.html
 改DNS，114，114，114，114；114，114，114，115；
 
 # Origin问题
-1、当前界面嵌入到大窗口中了，如何解决？答：点击【Duplicate】按钮即可
+1. 当前界面嵌入到大窗口中了，如何解决？答：点击【Duplicate】按钮即可
+2. [origin画图修改横坐标](https://blog.csdn.net/s_sunnyy/article/details/79687306)-->适用于横坐标间隔不同的情况下的处理
 
 
 # 如何通过visio生成.eps或pdf?
