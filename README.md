@@ -89,6 +89,7 @@ https://helpx.adobe.com/cn/illustrator/using/stroke-object.html
 
 # 网络问题：能登陆微信，但是不能访问浏览器
 改DNS，114，114，114，114；114，114，114，115；
+[网络正常，qq、微信等其他能正常使用但浏览器无法打开网页](https://blog.csdn.net/Thanours/article/details/81286367)
 
 # Origin问题
 1. 当前界面嵌入到大窗口中了，如何解决？答：点击【Duplicate】按钮即可
