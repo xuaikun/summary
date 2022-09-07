@@ -2,6 +2,37 @@
 总结相关经验
 避免再次入坑  
 
+# [Ubuntu 常用解压与压缩命令](https://blog.csdn.net/songbinxu/article/details/80435665)
+
+# GPU查看指令：nvidia-smi [链接](https://blog.csdn.net/hb_learing/article/details/115534219)
+
+# [conda的安装](https://blog.csdn.net/lwgkzl/article/details/89329383)(https://blog.csdn.net/qq_37764129/article/details/102475434)
+
+# [使用conda报错：使用conda报错：from conda.cli import main ModuleNotFoundError: No module named conda](https://blog.csdn.net/weixin_41010198/article/details/106188880)
+bash Anaconda3-5.2.0-Linux-x86_64.sh -u
+
+# [conda换源以及恢复源](https://blog.csdn.net/aboy2018/article/details/90210229)
+
+# 可以用conda创建、激活相关的环境，然后我们在继续安装对应的软件，比如pytorch的安装
+创建环境
+
+conda create -n name python=3.8  # 创建python3.8，名为name的环境---》python=xxx,即当前环境就为python.xxx版本
+删除环境
+
+conda remove -n name --all  # 删除名为name的环境，不可复原
+查看环境列表
+
+conda env list
+激活环境
+
+conda activate name
+退出环境
+
+conda deactivate
+
+
+# pytorch的安装链接：https://pytorch.org/
+
 # linux操作
 查看gpu使用情况
 
