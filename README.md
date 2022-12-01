@@ -2,6 +2,8 @@
 总结相关经验
 避免再次入坑  
 
+# [深度学习大佬的一生](https://mp.weixin.qq.com/s/uzp7eGAtdv0bzj1RMVavgQ)
+
 # [Ubuntu 常用解压与压缩命令](https://blog.csdn.net/songbinxu/article/details/80435665)
 
 # GPU查看指令：nvidia-smi [链接](https://blog.csdn.net/hb_learing/article/details/115534219)
